@@ -1,0 +1,2 @@
+PORT=agregar el puerto 
+MONGO_URI=mongodb://agregar usuario (agregar contraseña del db)/(agragar cluster):(agragar db)/agregar cluster

@@ -1,0 +1,47 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno
+.env
+
+# Archivos compilados
+dist/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos temporales
+tmp/
+temp/
+
+# VS Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Cobertura de pruebas
+coverage/
+
+# Archivos de caché
+.cache/
+
+# Archivos generados por nodemon
+nodemon.json
+
+# MongoDB local
+data/db/
+
+# Archivos de configuración local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
